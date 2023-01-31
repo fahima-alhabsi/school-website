@@ -1,22 +1,28 @@
-
-.deparments{
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.departments{
 color: black;
-font-size: 60px
+font-size: 60px;
  
-
+font-family: 'Aboreto', cursive;
+font-family: 'Cairo', sans-serif;
 
 }
 ol{
 font-size: x-large;
-color :blueviolet;
+color :rgb(50, 45, 54);
 
 
 
 }
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Playfair+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Quicksand:wght@300&display=swap');
-
+.name h2{
+    background-color: burlywood;
+    font-size: x-large;
+   color: #1f2379;
+}
 .header {
     
     
